@@ -2,7 +2,7 @@
 
 ![preview](https://raw.githubusercontent.com/smvueno/Google-Colab-CloudTorrent/master/src/preview.gif)
 
-# Google-Colab-CloudTorrent forked from <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbiplobsd%2FGoogle-Colab-CloudTorrent" alt="Hits">
+# Google-Colab-CloudTorrent fork
 
 <b>Features:</b><br>
 `Simple Torrent, peerflix-server, deluge, aria2, ariang, rclone, rclone WebUI, Jdownloader, Youtube-dl, Netdata, Cloud Commander, 
