@@ -10,5 +10,5 @@ Ssh, noVnc, filebrowser, µTorrent, Transmission Web Control, SocialFish, L3MON,
 
 
 # Usage
-1. Click on the "Open in Colab" button.
-Copy the "torrentTOmega_gdrive.ipynb" to your gdrive and and "Open with Google Colaboratory"
+1. Copy the "torrentTOmega_gdrive.ipynb" to your gdrive
+2. "Open with Google Colaboratory"
